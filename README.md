@@ -4,15 +4,11 @@ This is the original mobile cellular traffic dataset of MP-GAT in the following 
 [Multivariate and Propagation Graph Attention Network for Spatial-Temporal Prediction with Outdoor Cellular Traffic, CIKM 2021](https://arxiv.org/.....).  NOTE: All the cellular record is anonymized by hashing, then aggregate the quantity as our dataset.
 
 ## Road Intersection and the Corresponding Cellular Traffic Quantity (Hsinchu City, Taiwan)
-<p align="center">
-  <img width="350" height="400" src=./fig/Figure_1.png>
-</p>
+![MP-GAT](./fig/Figure_1.png "Road Intersection")
 
 
 ## Model Architecture
-<p align="center">
-  <img width="350" height="400" src=./fig/Figure_2.png>
-</p>
+![MP-GAT](./fig/Figure_2.png "Model Architecture")
 
 
 ## Dataset Providing
