@@ -21,9 +21,9 @@ Here is an example:
 
 |                     | Intersection_0 | Intersection_1 | Intersection_2 | Intersection_n |
 |:-------------------:|:--------------:|:--------------:|:--------------:|:--------------:|
-| 2018/01/01 00:00:00 |   795.0        |   124.0        |   175.0        |    ...         |
-| 2018/01/01 00:05:00 |   750.0        |   141.0        |   159.0        |    ...         |
-| 2018/01/01 00:10:00 |   538.0        |   73.0         |   178.0        |    ...         |
+| 2020/01/01 00:00:00 |   795.0        |   124.0        |   175.0        |    ...         |
+| 2020/01/01 00:05:00 |   750.0        |   141.0        |   159.0        |    ...         |
+| 2020/01/01 00:10:00 |   538.0        |   73.0         |   178.0        |    ...         |
 |         ...         |    ...         |    ...         |    ...         |    ...         |
 
 To generate train/test/val dataset as  `{train,val,test}.npz`, please look a nice reference [script](https://github.com/liyaguang/DCRNN/blob/master/scripts/generate_training_data.py) from [DCRNN](https://github.com/liyaguang/DCRNN).
