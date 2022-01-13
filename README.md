@@ -1,4 +1,4 @@
-# Multivariate and Propagation Graph Attention Network for Spatial-Temporal Prediction with Outdoor Cellular Traffic (MP-GAT)
+# Multivariate and Propagation Graph Attention Network for Spatial-Temporal Prediction with Outdoor Cellular Traffic
 
 This is the original mobile cellular traffic dataset of MP-GAT in the following paper: 
 [Multivariate and Propagation Graph Attention Network for Spatial-Temporal Prediction with Outdoor Cellular Traffic](https://arxiv.org/abs/2108.08307) (CIKM 2021).  NOTE: All the cellular record is anonymized by hashing, then aggregate the quantity as our dataset.
